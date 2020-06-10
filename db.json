@@ -1,0 +1,75 @@
+{
+  "student": [
+        {
+          "id": 1,
+          "fullName": "Миша Петров",
+          "university": "УГАТУ",
+          "course": 2,
+          "birthDate": "1990-12-02",
+          "photoUrl": "img/ava01.jpg"
+      },
+      {
+          "id": 2,
+          "fullName": "Маша Иванова",
+          "university": "СурГУ",
+          "course": 3,
+          "birthDate": "1993-12-03",
+          "photoUrl": "img/ava02.jpg"
+      },
+      {
+        "id": 3,
+          "fullName": "Катя Волнова",
+          "university": "СевГУ",
+          "course": 4,
+          "birthDate": "1980-05-25",
+          "photoUrl": "img/ava03.jpg"
+      },
+      {
+        "id": 4,
+          "fullName": "Влад Петров",
+          "university": "МГУ",
+          "course": 1,
+          "birthDate": "1995-01-01",
+          "photoUrl": "img/ava04.jpg"
+      },
+      {
+        "id": 5,
+          "fullName": "Кира Найтли",
+          "university": "УрГУ",
+          "course": 2,
+          "birthDate": "1996-03-09",
+          "photoUrl": "img/ava05.jpg"
+      },
+      {
+        "id": 6,
+          "fullName": "Старик Хотабыч",
+          "university": "СпбГУ",
+          "course": 3,
+          "birthDate": "1950-12-12",
+          "photoUrl": "img/ava06.jpg"
+      }
+  ],
+  "teacher": [
+        {
+            "fullName": "Леша Иванов",
+            "university": "НГУ",
+            "experience": 12,
+            "birthDate": "1997-12-12",
+            "photoUrl": "img/ava01.jpg"
+        },
+        {
+            "fullName": "Лена Петрова",
+            "university": "АрхГУ",
+            "experience": 5,
+            "birthDate": "1990-12-12",
+            "photoUrl": "img/ava02.jpg"
+        },
+        {
+            "fullName": "Розалия Громова",
+            "university": "ТюмГУ",
+            "experience": 6,
+            "birthDate": "1970-12-12",
+            "photoUrl": "img/ava03.jpg"
+        }
+  ]
+}
